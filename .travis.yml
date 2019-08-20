@@ -17,4 +17,3 @@ script:
   -  cd targets/Cloud_STM32F429IGTx_FIRE/GCC
   -  make
 
-
